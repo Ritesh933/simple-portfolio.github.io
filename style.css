@@ -1,0 +1,134 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #0c0f0a;
+}
+
+.container {
+    width: 52%;
+    background-color: #0c0f0a;
+    margin: 39px auto;
+}
+
+.section-image {
+    top: 29px;
+    display: flex;
+    gap: 16px;
+    float: right;
+    position: relative;
+
+}
+
+.twitter {
+    height: 40px;
+    width: 40px;
+    background-color: #e8ebeb;
+    border-radius: 10px;
+}
+
+.twitter img {
+    height: 40px;
+    width: 40px;
+    background-color: none;
+}
+
+.twitter img:hover {
+    cursor: pointer;
+}
+
+.github {
+    height: 35px;
+    width: 35px;
+    border: solid 3px #e8ebeb;
+    border-radius: 10px;
+
+}
+
+.github img {
+    height: 35px;
+    width: 35px;
+    border-radius: 10px;
+}
+
+.github img:hover {
+    cursor: pointer;
+}
+
+.box {
+    background-color: #141712;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.main {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.line {
+    color: #41ead4;
+    float: left;
+    width: 20%;
+    margin: 13px 0px;
+}
+
+span {
+    color: #41ead4;
+    cursor: pointer;
+}
+
+.Email {
+    color: #41ead4;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.Email:hover {
+    text-decoration: underline;
+}
+
+p {
+    color: #d6d0d0;
+    margin-top: 20px;
+    font-size: 20px;
+    line-height: 1.6;
+    font-family: "Poppins", sans-serif;
+}
+
+.p1 {
+    margin-top: 40px;
+}
+
+.heading {
+    font-weight: 600;
+    font-size: 30px;
+    color: #f4ebeb;
+    margin: 38px 0 0;
+    font-family: sans-serif;
+
+}
+
+.project {
+    display: flex;
+    margin-bottom: 38px;
+    gap: 20px;
+}
+
+.project-1 {
+    height: 130px;
+    width: 215px;
+    background-color: #41ead4;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.project-2 {
+    height: 130px;
+    width: 215px;
+    background-color: #41ead4;
+    border-radius: 10px;
+    cursor: pointer;
+}

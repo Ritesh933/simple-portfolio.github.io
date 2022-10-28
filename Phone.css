@@ -1,0 +1,33 @@
+.container {
+    margin-top: 25px;
+    width: 90%;
+}
+
+.main {
+    width: 90%;
+}
+
+.section-image {
+    margin-top: 5px;
+    position: relative;
+    margin-right: 10px;
+}
+
+.heading {
+    font-size: 28px;
+}
+
+.project {
+    gap: 15px;
+    margin-bottom: 25px;
+}
+
+.project-1 {
+    height: 80px;
+    width: 130px;
+}
+
+.project-2 {
+    height: 80px;
+    width: 130px;
+}
